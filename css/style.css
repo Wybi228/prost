@@ -1,12 +1,22 @@
-.block{
-	height: 200px;
+.exp{
+	background-color: purple;
+	min-height: 50vh;
+	padding-top: 150px;
+	padding-bottom: 150px;
 }
-.red{
-	background-color: red;
+.white-text{
+	color: white;
 }
-.blue{
-	background-color: blue;
+.titleWrapp hr{
+	width: 100px;
 }
-.container{
-	margin-bottom: 40px;
+img{
+	max-width: 100%;
+}
+.textWrapp{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.teamWrapp{
+	border: 1px solid white;
 }
